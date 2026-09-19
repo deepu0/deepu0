@@ -51,6 +51,8 @@ I build frontend products that help developers find work, prepare better, and un
 | EkSaath | 3 users · 5.0/5 (1 rating) | [Chrome Web Store](https://chromewebstore.google.com/detail/eksaath-%E2%80%94-group-tabs-by-d/dmbddhflionebnjhlopafpggcegkkklo) | Sep 19, 2026 |
 | WhatStack | 5 users | [Chrome Web Store](https://chromewebstore.google.com/detail/whatstack/kpmbanlddakoocgimdenfeppfaidmcgk) | Sep 19, 2026 |
 | festive-ui on npm | v2.0.0 | [npmjs.com/package/festive-ui](https://www.npmjs.com/package/festive-ui) | published Dec 24, 2025 |
+| LinkedIn audience | 52.3k+ followers | [linkedin.com/in/depaksharma](https://www.linkedin.com/in/depaksharma/) | Sep 19, 2026 |
+| Telegram community (React jobs) | 4.7k+ subscribers | [t.me/+T824I7hHtsc4YWNl](https://t.me/+T824I7hHtsc4YWNl) | Sep 19, 2026 |
 
 ---
 
@@ -110,8 +112,12 @@ LinkedIn shows "100+ applicants" even with Premium. This shows the exact number 
 
 ## Trust & contact
 
-- 💼 **LinkedIn:** [linkedin.com/in/depaksharma](https://www.linkedin.com/in/depaksharma/) — fastest professional route
+- 💼 **LinkedIn:** [linkedin.com/in/depaksharma](https://www.linkedin.com/in/depaksharma/) (52k+ followers) — fastest professional route
 - 📞 **Topmate:** [topmate.io/deepak_sharma](https://topmate.io/deepak_sharma/) — book a 1:1 (mock interviews, resume reviews, job-switch strategy)
-- 🌐 **Product:** [onlyfrontendjobs.com](https://onlyfrontendjobs.com)
+- 🌐 **Flagship:** [onlyfrontendjobs.com](https://onlyfrontendjobs.com) (720+ live frontend roles)
+- 🎥 **YouTube:** [@THEENGINEERBHAI](https://www.youtube.com/@THEENGINEERBHAI) (tech & engineering) · [@ghumta_firta_techie](https://www.youtube.com/@ghumta_firta_techie) (travel & vlogs)
+- 📸 **Instagram:** [@devmemes.ai](https://www.instagram.com/devmemes.ai/) · [@ghumta_phirta_techie](https://www.instagram.com/ghumta_phirta_techie)
+- 💬 **Telegram:** [React Jobs Community](https://t.me/+T824I7hHtsc4YWNl) (4.7k+ developers)
+- ✍️ **Writing:** [Substack](https://onlyfrontendjobs.substack.com/publish/home) · [X / Twitter](https://x.com/sharmadeepak__)
 
 If you're hiring for senior frontend roles, building for developers, or want to collaborate on career tooling — LinkedIn is the best first touch.
